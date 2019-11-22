@@ -1,4 +1,4 @@
-# CMPE255 [Fall'19'] Data Mining
+# [Fall'19] CMPE255  Data Mining
 
 ## Title: New York City Taxi Fare Prediction
 
